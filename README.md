@@ -11,17 +11,34 @@
   </strong>
 </p>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=Doris-WenZiYing&label=Profile%20views&color=0e75b6&style=flat"
-    alt="visitors"
-  />
+<div style="display: flex; align-items: center;">
+  <a href="https://komarev.com/ghpvc/?username=Doris-WenZiYing&label=Profile%20views&color=0e75b6&style=flatl">
+    <img
+      src="https://komarev.com/ghpvc/?username=Doris-WenZiYing&label=Profile%20views&color=0e75b6&style=flat"
+      alt="visitors"
+    />
+  </a>
+  <span style="margin-right: 4px;"></span>
   <a href="https://wakatime.com/@d27a07f2-8cfe-4db0-bd50-e86889bf80e8?style=social">
     <img 
       src="https://wakatime.com/badge/user/d27a07f2-8cfe-4db0-bd50-e86889bf80e8.svg" 
       alt="Total time coded since Jun 2 2023" />
   </a>
-</p>
+  <span style="margin-right: 4px;"></span>
+  <a href="https://www.instagram.com/dolores_dione/">
+    <img src="https://img.shields.io/badge/%20-dolores__dione-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="insta badge">
+  </a>
+  <span style="margin-right: 4px;"></span>
+  <form action="mailto:doris070714@gmail.com" method="get" enctype="text/plain">
+    <button type="submit" style="background: transparent; border: none; padding: 0;">
+      <img src="https://img.shields.io/badge/%20-doris070714-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
+    </button>
+  </form>
+  <span style="margin-right: 4px;"></span>
+  <a href="https://www.instagram.com/dolores_dione/">
+    <img src="https://img.shields.io/badge/%20-%40rizzyD-lightgrey?style=flat&labelColor=lightgrey&logo=mdbook&logoColor=white" alt="hackmd badge">
+  </a>
+</div>
 
 <h2 align="left">
   <strong>
@@ -53,23 +70,6 @@
   </tr>
 </table>
 
-</h2>
-
-<h2 align="left">
-  <strong>
-    Get in Touch 📱</br>
-  </strong>
-  <div style="display: flex; align-items: center;">
-    <a href="https://www.instagram.com/dolores_dione/">
-      <img src="https://img.shields.io/badge/%20-dolores__dione-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="insta badge">
-    </a>
-    <span style="margin-right: 4px;"></span>
-    <form action="mailto:doris070714@gmail.com" method="get" enctype="text/plain">
-      <button type="submit" style="background: transparent; border: none; padding: 0;">
-        <img src="https://img.shields.io/badge/%20-doris070714-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
-      </button>
-    </form>
-  </div>
 </h2>
 
 <h2 align="left">
