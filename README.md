@@ -1,6 +1,7 @@
 <h2 align="center">
   <strong>
-    Hi there, I'm Doris 👋
+    Hi there, I'm Doris 
+    <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
   </strong>
 </h2>
 
@@ -56,8 +57,19 @@
 
 <h2 align="left">
   <strong>
-    Get in Touch 📱
+    Get in Touch 📱</br>
   </strong>
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.instagram.com/dolores_dione/">
+      <img src="https://img.shields.io/badge/%20-dolores__dione-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="insta badge">
+    </a>
+    <span style="margin-right: 4px;"></span>
+    <form action="mailto:doris070714@gmail.com" method="get" enctype="text/plain">
+      <button type="submit" style="background: transparent; border: none; padding: 0;">
+        <img src="https://img.shields.io/badge/%20-doris070714-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
+      </button>
+    </form>
+  </div>
 </h2>
 
 <h2 align="left">
@@ -81,7 +93,6 @@
     />
   </a>
 </p>
-
 
 <!--START_SECTION:waka-->
 
