@@ -85,4 +85,12 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 01 June 2023 - To: 02 June 2023
+
+Total Time: 1 hr 23 mins
+
+Markdown   1 hr 23 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
