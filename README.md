@@ -114,10 +114,6 @@ HTML                     1 repo              ███░░░░░░░░�
 Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Doris-WenZiYing/Doris-WenZiYing/main/assets/bar_graph.png)
-
 Last Updated on 06/06/2023 08:10:50 UTC
 
 <!--END_SECTION:waka-->
