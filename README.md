@@ -46,7 +46,7 @@
 </h2>
 
 <details>
-<summary> 👩‍💻 My Coding Stats</summary>
+<summary> 👩‍💻 My Coding Stats</summary></br>
 <!--START_SECTION:waka-->
 
 **🐱 My GitHub Data**
