@@ -15,7 +15,7 @@
 
   <img src="http://img.shields.io/badge/Code%20Time-5%20hrs%2020%20mins-blue">
   <span style="margin-right: 4px;"></span>
-  <img src="http://img.shields.io/badge/Profile%20Views-316-blue">
+  <img src="https://komarev.com/ghpvc/?username=Doris-WenZiYing">
   <span style="margin-right: 4px;"></span>
   <a href="https://wakatime.com/@d27a07f2-8cfe-4db0-bd50-e86889bf80e8?style=social">
   <img 
