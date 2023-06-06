@@ -14,8 +14,8 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          LOCALE: "en"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"
+          # LOCALE: "en"
+          # SHOW_COMMIT: "True"
+          # SHOW_DAYS_OF_WEEK: "True"
+          # SHOW_EDITORS: "True"
+          # SHOW_OS: "True"
