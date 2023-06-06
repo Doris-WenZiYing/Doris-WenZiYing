@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>
-    An iOS developer and computer science student passionate about creating captivating mobile experiences. My expertise lies in iOS development using Swift, where I strive to build intuitive user interfaces and stay ahead of the latest trends in the iOS ecosystem. Let’s collaborate and craft impactful iOS applications together!
+    An iOS developer and computer science student passionate about creating captivating mobile experiences. My expertise lies in iOS development using Swift, where I strive to build intuitive user interfaces and stay ahead of the latest trends in the iOS ecosystem. </br>Let’s collaborate and craft impactful iOS applications together!
   </strong>
 </p>
 
@@ -72,19 +72,27 @@
 
 </h2>
 
-<h2 align="left">
-  <strong>
-    GitHub Stats 📊 </br>
-  </strong>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Doris-WenZiYing&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Doris-WenZiYing">
-  <img src="https://github-profile-trophy.vercel.app/?username=Doris-WenZiYing&theme=juicyfresh&no-frame=true&column=4&row=3" alt="Doris-WenZiYing">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doris-WenZiYing&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Doris-WenZiYing">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doris-WenZiYing&theme=dark&hide_border=true" alt="Doris-WenZiYing">
-  <column>
-</h2>
+<details>
+<summary> 👩‍💻 My Coding Stats</summary>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+</details>
+
+<details> 
+<summary> 📊 GitHub Stats </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Doris-WenZiYing&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Doris-WenZiYing"></br>
+<img src="https://github-profile-trophy.vercel.app/?username=Doris-WenZiYing&theme=juicyfresh&no-frame=true&column=4&row=3" alt="Doris-WenZiYing"></br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Doris-WenZiYing&theme=dark&hide_border=true" alt="Doris-WenZiYing">
+</details>
+
+<details>
+<summary> ⚡️ Top Use Languages </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Doris-WenZiYing&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Doris-WenZiYing">
+</details>
 
 <p>
-  <strong>If you like my work, maybe you can buy me a cup of coffee.</br></br><strong>
+  </br><strong>If you like my work, maybe you can buy me a cup of coffee.</br></br><strong>
   <a href="https://www.buymeacoffee.com/rizzyD" target="_blank">
     <img 
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
@@ -93,7 +101,3 @@
     />
   </a>
 </p>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
