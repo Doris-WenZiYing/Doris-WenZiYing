@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: waka_664c7230-461f-4a01-80bf-730c91a6836f
           LOCALE: "en"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
