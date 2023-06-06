@@ -17,25 +17,20 @@
   <span style="margin-right: 4px;"></span>
   <img src="https://komarev.com/ghpvc/?username=Doris-WenZiYing">
   <span style="margin-right: 4px;"></span>
-  <a href="https://wakatime.com/@d27a07f2-8cfe-4db0-bd50-e86889bf80e8?style=social">
+  <a href="https://wakatime.com/@d27a07f2-8cfe-4db0-bd50-e86889bf80e8?style=social" target="_blank">
   <img 
         src="https://wakatime.com/badge/user/d27a07f2-8cfe-4db0-bd50-e86889bf80e8.svg" 
         alt="Total time coded since Jun 2 2023" />
   </a>
   <span style="margin-right: 4px;"></span>
-  <a href="https://www.instagram.com/dolores_dione/">
+  <a href="https://www.instagram.com/dolores_dione/" target="_blank">
   <img src="https://img.shields.io/badge/%20-dolores__dione-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="insta badge">
   </a>
   <span style="margin-right: 4px;"></span>
-
-  <form action="mailto:doris070714@gmail.com" method="get" enctype="text/plain">
-    <button type="submit" style="background: transparent; border: none; padding: 0;">
-      <img src="https://img.shields.io/badge/%20-doris070714-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
-    </button>
-  </form>
+  <img src="https://img.shields.io/badge/%20-doris070714-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
   <span style="margin-right: 4px;"></span>
-  <a href="https://www.instagram.com/dolores_dione/">
-    <img src="https://img.shields.io/badge/%20-%40rizzyD-lightgrey?style=flat&labelColor=lightgrey&logo=mdbook&logoColor=white" alt="hackmd badge">
+  <a href="https://hackmd.io/@rizzyD" target="_blank">
+    <img src="https://img.shields.io/badge/%20-%40rizzy__D-%23555d6b?style=flat&logo=mdbook&logoColor=white" alt="hackmd badge">
   </a>
 </div>
 
@@ -43,6 +38,7 @@
   <strong>
     Coding Languages and Tools 💻</br>
   </strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" / height=20 width=20>
 </h2>
 
 <details>
