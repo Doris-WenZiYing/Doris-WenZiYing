@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>
-    An iOS developer and computer science student passionate about creating captivating mobile experiences. My expertise lies in iOS development using Swift, where I strive to build intuitive user interfaces and stay ahead of the latest trends in the iOS ecosystem. </br>Let’s collaborate and craft impactful iOS applications together!
+    I am an Apple product enthusiast, an iOS developer, and a computer science student who is passionate about creating captivating mobile experiences. With a deep understanding of the iOS platform, my expertise lies in iOS development using Swift. I am dedicated to building intuitive user interfaces and staying up-to-date with the latest trends in the iOS ecosystem. As an iOS developer, my goal is to craft impactful iOS applications that leave a lasting impression. <br>Let's collaborate and create remarkable iOS experiences together!
   </strong>
 </p>
 
@@ -27,15 +27,28 @@
   </a>
 </div>
 
-<h2 align="left">
-  <strong>
-    Coding Languages and Tools 💻</br>
-  </strong>
-  <img src="https://img.shields.io/badge/-swift-F54A2A?style=for-the-badge&labelColor=black&logoColor=F54A2A&logo=swift&logoColor=white">
-  <span style="margin-right: 4px;"></span>
-
-  </br>
-</h2>
+<div style="margin-bottom: 16px;"> <!-- Increase the margin-bottom value to create a bigger margin -->
+  <h2 align="left">
+    <strong>
+      Coding Languages and Tools 💻
+    </strong>
+  </h2>
+  <div style="display: inline-block; border-radius: 4px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/UIkit-2396F3.svg?style=for-the-badge&logo=UIkit&logoColor=white" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/YOLO-00FFFF.svg?style=for-the-badge&logo=YOLO&logoColor=black" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white" style="border-radius: 4px;">
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" style="border-radius: 4px;">
+  </div>
+</div>
 
 <h2 align="left">
   <strong>
@@ -47,81 +60,7 @@
 <summary> 👩‍💻 My Coding Stats</summary></br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2028%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 76.9 kB Used in GitHub's Storage 
- > 
-> 🏆 67 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-🌆 Daytime                378 commits         ██████████████████░░░░░░░   73.11 % 
-🌃 Evening                71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   124 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Tuesday                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Wednesday                154 commits         ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Friday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Saturday                 116 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Markdown                 4 hrs 28 mins       █████████████████░░░░░░░░   67.61 % 
-YAML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Text                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Python                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 37 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Intro                    2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
-Doris-WenZiYing          2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
-yolov5                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-yolov5-master            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Model                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-
-💻 Operating System: 
-Mac                      6 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Swift** 
-
-```text
-Swift                    3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-C                        2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-
-
-
-
- Last Updated on 08/06/2023 10:09:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
@@ -139,7 +78,7 @@ Vue                      1 repo              ███░░░░░░░░�
 </details>
 
 <p>
-  </br><h3 style="font-weight:bold">If you like my work, maybe you can buy me a cup of coffee.</br></h3>
+  <h3 style="font-weight:bold">If you like my work, maybe you can buy me a cup of coffee.</br></h3>
   <a href="https://www.buymeacoffee.com/rizzyD" target="_blank">
     <img
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
