@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=Doris-WenZiYing">
   <span style="margin-right: 4px;"></span>
   <a href="https://www.instagram.com/dolores_dione/" target="_blank">
-  <img src="https://img.shields.io/badge/%20-dolores__dione-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="insta badge">
+    <img src="https://img.shields.io/badge/%20-dolores__dione-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="insta badge">
   </a>
   <span style="margin-right: 4px;"></span>
   <a href="mailto:doris070714@gmail.com">
@@ -39,18 +39,31 @@
   </h2>
   <div style="display: inline-block; border-radius: 4px; overflow: hidden;">
     <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/UIkit-2396F3.svg?style=for-the-badge&logo=UIkit&logoColor=white" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/YOLO-00FFFF.svg?style=for-the-badge&logo=YOLO&logoColor=black" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
     <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" style="border-radius: 4px;">
+    <span style="margin-right: 4px;"></span>
   </div>
 </div>
 
