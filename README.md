@@ -77,7 +77,7 @@
 <summary> 👩‍💻 My Coding Stats</summary></br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -152,7 +152,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/06/2023 01:44:24 UTC
+ Last Updated on 15/06/2023 01:43:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
