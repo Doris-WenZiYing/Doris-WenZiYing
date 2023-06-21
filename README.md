@@ -118,19 +118,16 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 10 mins             █████████████████░░░░░░░░   66.75 % 
-Python                   4 mins              ████████░░░░░░░░░░░░░░░░░   33.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Xcode                    10 mins             █████████████████░░░░░░░░   66.75 % 
-VS Code                  4 mins              ████████░░░░░░░░░░░░░░░░░   33.25 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          10 mins             █████████████████░░░░░░░░   66.75 % 
-CreateML_Annotations_JSON4 mins              ████████░░░░░░░░░░░░░░░░░   33.25 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Swift** 
@@ -146,7 +143,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 20/06/2023 01:39:35 UTC
+ Last Updated on 21/06/2023 01:41:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
