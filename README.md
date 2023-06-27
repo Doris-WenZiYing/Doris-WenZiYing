@@ -150,14 +150,14 @@ Vue                      1 repo              ███░░░░░░░░�
 
 <details>
 <summary> 📊 GitHub Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Doris-WenZiYing&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Doris-WenZiYing"></br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Doris-WenZiYing&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Doris-WenZiYing"></br>
 <img src="https://github-profile-trophy.vercel.app/?username=Doris-WenZiYing&theme=juicyfresh&no-frame=true&column=4&row=3" alt="Doris-WenZiYing"></br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doris-WenZiYing&theme=dark&hide_border=true" alt="Doris-WenZiYing">
 </details>
 
 <details>
 <summary> ⚡️ Top Use Languages </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Doris-WenZiYing&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Doris-WenZiYing">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Doris-WenZiYing&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Doris-WenZiYing">
 </details>
 
 <p>
