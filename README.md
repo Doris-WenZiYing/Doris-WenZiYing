@@ -29,6 +29,10 @@
   <a href="https://open.spotify.com/user/doris070714?si=23bc7f20a2c24c8f">
     <img src="https://img.shields.io/badge/Doritos👽-1DB954.svg?style=flat&logo=Spotify&logoColor=white">
   </a>
+  <span style="margin-right: 4px;"></span>
+  <a href="https://www.linkedin.com/in/doris-wen-zi-ying/">
+    <img src="https://img.shields.io/badge/Doris Wen-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
 <div style="margin-bottom: 16px;"> <!-- Increase the margin-bottom value to create a bigger margin -->
