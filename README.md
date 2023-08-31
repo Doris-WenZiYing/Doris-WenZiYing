@@ -35,6 +35,13 @@
   </a>
 </div>
 
+</br>
+
+- 🤓 Currently I'm learning **Swift, SwiftUI, Deep Learning** 
+- 💭 Ask me about **iOS tech**
+- 📄 My experience [resume](https://drive.google.com/file/d/1-ACOxCBRGR7xyVjy1WD0isW3fnC5k5mu/view?usp=sharing)
+- ☎️ You can reach me on [instagram](https://www.instagram.com/dolores_dione/)
+
 <div style="margin-bottom: 16px;"> <!-- Increase the margin-bottom value to create a bigger margin -->
   <h2 align="left">
     <strong>
