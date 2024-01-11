@@ -6,19 +6,14 @@
     <img src="https://komarev.com/ghpvc/?username=Doris-WenZiYing">
     <a href="https://www.instagram.com/dolores_dione/">
         <img src="https://img.shields.io/badge/%20-dolores__dione-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white">
-    </a>
-    <a href="mailto:doris070714@gmail.com">
+    </a><a href="mailto:doris070714@gmail.com">
         <img src="https://img.shields.io/badge/%20-doris070714-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:doris070714@gmail.com">
-    </a>
-    <a href="https://hackmd.io/@rizzyD">
+    </a><a href="https://hackmd.io/@rizzyD">
         <img src="https://img.shields.io/badge/%20-%40rizzy__D-%23555d6b?style=flat&logo=mdbook&logoColor=white">
-    </a>
-    <a href="https://open.spotify.com/user/doris070714?si=23bc7f20a2c24c8f">
+    </a><a href="https://open.spotify.com/user/doris070714?si=23bc7f20a2c24c8f">
         <img src="https://img.shields.io/badge/Doritos👽-1DB954.svg?style=flat&logo=Spotify&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/doris-wen-zi-ying/">
-        <img src="https://img.shields.io/badge/Doris%20Wen-0077B5?style=flat&logo=linkedin&logoColor=white" >
-    </a>
+    </a><a href="https://www.linkedin.com/in/doris-wen-zi-ying/">
+        <img src="https://img.shields.io/badge/Doris%20Wen-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 **<p style="text-align: center;">Let's collaborate and create remarkable iOS experiences together!</p>**
@@ -41,7 +36,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
-![TensorFlow](Https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?style=for-the-badge&logo=YOLO&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
