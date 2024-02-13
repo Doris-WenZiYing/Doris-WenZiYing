@@ -84,19 +84,16 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Swift                    44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Xcode                    44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GraduationProject2023    30 mins             █████████████████░░░░░░░░   68.69 % 
-GraduationProject        7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Unknown Project          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-HealthTracking           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Swift** 
@@ -111,7 +108,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2024 01:15:02 UTC
+ Last Updated on 13/02/2024 01:15:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
