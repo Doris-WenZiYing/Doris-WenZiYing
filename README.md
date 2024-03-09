@@ -84,16 +84,16 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Swift                    3 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Xcode                    3 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HealthTracking           3 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Swift** 
@@ -108,7 +108,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2024 01:14:33 UTC
+ Last Updated on 09/03/2024 01:11:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
