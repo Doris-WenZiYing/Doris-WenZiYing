@@ -84,16 +84,20 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Swift                    3 hrs 19 mins       ██████████████████░░░░░░░   73.87 % 
+Other                    1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Xcode                    4 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ios-nanny-report         4 hrs 17 mins       ████████████████████████░   95.30 % 
+ios-foundation           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+swift-composable-architec0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -108,7 +112,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2024 01:15:24 UTC
+ Last Updated on 20/03/2024 01:14:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
