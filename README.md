@@ -19,7 +19,7 @@
 - 🤓 I’m currently learning **SwiftUI, TCA, Deep Learning**.
 - 🎮 In my free time, I enjoy **Gaming**.
 - 💭 Ask me about **iOS Tech**, **Coffee**.
-- 📄 My experience **[resume](https://drive.google.com/file/d/1-ACOxCBRGR7xyVjy1WD0isW3fnC5k5mu/view?usp=sharing](https://drive.google.com/file/d/12_pxaQswmA1o29-JdqKwX7K5gqzQuXA-/view?usp=sharing))**.
+- 📄 My experience **[resume](https://drive.google.com/file/d/12_pxaQswmA1o29-JdqKwX7K5gqzQuXA-/view?usp=sharing)**.
 - ☎️ You can reach me on **[instagram](https://www.instagram.com/dolores_dione/)**.
 
 **<h2 style="text-align: left;">Coding Languages and Tools 💻</h2>**
