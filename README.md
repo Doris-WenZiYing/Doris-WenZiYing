@@ -13,13 +13,13 @@
 
 **<p style="text-align: center;">Let's collaborate and create remarkable iOS experiences together!</p>**
 
-<p style="text-align: center;">I am an Apple product enthusiast, an iOS developer, and a computer science student who is passionate about creating captivating mobile experiences. With a deep understanding of the iOS platform, my expertise lies in iOS development using Swift. I am dedicated to building intuitive user interfaces and staying up-to-date with the latest trends in the iOS ecosystem. As an iOS developer, my goal is to craft impactful iOS applications that leave a lasting impression. </p>
+<p style="text-align: center;">I am an Apple product enthusiast, an iOS developer, and a computer science student passionate about creating captivating mobile experiences. With a deep understanding of the iOS platform, my expertise lies in iOS development using Swift. I am dedicated to building intuitive user interfaces and staying up-to-date with the latest trends in the iOS ecosystem. As an iOS developer, I aim to craft impactful iOS applications that leave a lasting impression. </p>
 
 **<h2 style="text-align: left;">Fun Facts About Me</h2>**
-- 🤓 I’m currently learning **Swift, SwiftUI, Deep Learning**.
+- 🤓 I’m currently learning **SwiftUI, TCA, Deep Learning**.
 - 🎮 In my free time, I enjoy **Gaming**.
 - 💭 Ask me about **iOS Tech**, **Coffee**.
-- 📄 My experience **[resume](https://drive.google.com/file/d/1-ACOxCBRGR7xyVjy1WD0isW3fnC5k5mu/view?usp=sharing)**.
+- 📄 My experience **[resume]([https://drive.google.com/file/d/1-ACOxCBRGR7xyVjy1WD0isW3fnC5k5mu/view?usp=sharing](https://drive.google.com/file/d/12_pxaQswmA1o29-JdqKwX7K5gqzQuXA-/view?usp=sharing))**.
 - ☎️ You can reach me on **[instagram](https://www.instagram.com/dolores_dione/)**.
 
 **<h2 style="text-align: left;">Coding Languages and Tools 💻</h2>**
