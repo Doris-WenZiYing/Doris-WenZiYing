@@ -19,6 +19,7 @@
 - 🤓 I’m currently learning **SwiftUI, TCA, Deep Learning**.
 - 🎮 In my free time, I enjoy **Gaming**.
 - 💭 Ask me about **iOS Tech**, **Coffee**.
+- 👩‍💻 All of my projects are available at
 - 📄 My experience **[resume](https://drive.google.com/file/d/12_pxaQswmA1o29-JdqKwX7K5gqzQuXA-/view?usp=sharing)**.
 - ☎️ You can reach me on **[instagram](https://www.instagram.com/dolores_dione/)**.
 
@@ -42,81 +43,8 @@
 <details>
 <summary> 👩‍💻 My Coding Stats</summary>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2012%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 10.0 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-🌆 Daytime                380 commits         ██████████████████░░░░░░░   73.50 % 
-🌃 Evening                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   107 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Wednesday                157 commits         ████████░░░░░░░░░░░░░░░░░   30.37 % 
-Thursday                 25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Saturday                 116 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Swift                    1 hr 37 mins        █████████████░░░░░░░░░░░░   52.75 % 
-Other                    1 hr 24 mins        ███████████░░░░░░░░░░░░░░   45.83 % 
-Objective-C              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-
-🔥 Editors: 
-Xcode                    2 hrs 16 mins       ██████████████████░░░░░░░   73.53 % 
-Notion                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Zoom                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Notes                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-
-🐱‍💻 Projects: 
-Unknown Project          49 mins             ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-furbo-ios-revamp         39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-TCA                      39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-ios-nanny-report         37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-TodoTCA                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-
-💻 Operating System: 
-Mac                      3 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Swift** 
-
-```text
-Swift                    7 repos             ████████████████░░░░░░░░░   63.64 % 
-C                        2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-
- Last Updated on 10/04/2024 01:15:42 UTC
-<!--END_SECTION:waka-->
+<img src="https://wakatime.com/badge/user/d27a07f2-8cfe-4db0-bd50-e86889bf80e8.svg"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DorisWenZiYing&theme=dark&hide_border=true">
 
 </details>
 
@@ -124,13 +52,13 @@ Python                   1 repo              ██░░░░░░░░░�
 <summary> 📊 GitHub Stats </summary>
     
 <img src="https://github-profile-trophy.vercel.app/?username=Doris-WenZiYing&theme=juicyfresh&no-frame=true&column=4&row=3" alt="Doris-WenZiYing">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Doris-WenZiYing&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Doris-WenZiYing">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Doris-WenZiYing&theme=dark&hide_border=true" alt="Doris-WenZiYing">
+<img src="https://github-readme-stats.vercel.app/api?username=Doris-WenZiYing&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Doris-WenZiYing">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Doris-WenZiYing&theme=dark&hide_border=true" alt="GitHub Streak">
 </details>
 
 <details>
 <summary> ⚡️ Top Use Languages </summary>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Doris-WenZiYing&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Doris-WenZiYing">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doris-WenZiYing&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=20" alt="Doris-WenZiYing">
 </details>
 
 **<h3 style="text-align: left;">
