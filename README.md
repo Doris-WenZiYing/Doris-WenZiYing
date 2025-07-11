@@ -54,7 +54,8 @@
     
 <img src="https://github-profile-trophy.vercel.app/?username=Doris-WenZiYing&theme=juicyfresh&no-frame=true&column=4&row=3" alt="Doris-WenZiYing">
 <img src="https://github-readme-stats.vercel.app/api?username=Doris-WenZiYing&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Doris-WenZiYing">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Doris-WenZiYing&theme=dark&hide_border=true" alt="GitHub Streak">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Doris-WenZiYing&theme=dark&hide_border=true" alt="GitHub Streak"> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Doris-WenZiYing&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </details>
 
 <details>
